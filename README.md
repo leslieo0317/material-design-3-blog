@@ -1,6 +1,6 @@
 # MD3 Personal Blog
 
-一个适合部署在 Oracle 服务器 + 宝塔面板上的轻量个人博客。技术栈是原生 PHP 8 + SQLite，不需要 Node 构建，也不需要单独安装 MySQL。
+一个适合部署在服务器上的轻量个人博客。技术栈是原生 PHP 8 + SQLite，不需要 Node 构建，也不需要单独安装 MySQL。
 
 ## 功能
 
